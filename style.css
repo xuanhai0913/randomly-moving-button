@@ -17,6 +17,12 @@ h2 {
     color: #e94d58;
     margin: 15px 0;
 }
+.special-text {
+    font-family: 'Arial Black', sans-serif; /* chọn font đặc biệt */
+    font-size: 1.5em; /* kích cỡ font */
+    color: #4CAF50; /* màu sắc */
+}
+
 .gif {
     display: block;
     margin: 0 auto;
